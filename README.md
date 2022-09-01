@@ -1,7 +1,7 @@
 Hi 👋 My name is Novaldi Sandi Ago
 ==================================
 
-Android Depelover and Game Depelover
+Mobile Depelover and Game Depelover
 ------------------------------------
 
 ### Skills
