@@ -1,7 +1,10 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Novaldi Sandi Ago</h1>
-<h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=335&lines=Hi+%2C+I'm+Novaldi+Sandi+Ago" alt="Typing SVG" /></a>
+  <p>Software Engineer | Technical Content Writer | Data Analysis Enthusiast</p>
+</h3>
 
 <p align="center">
   <em>
@@ -12,12 +15,21 @@
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-</p>
+  </p>
+
+  <p align="center">
+      <a href="#"><img src="https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo" alt=""/></a>
+      <a href="#"><img src="https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star" alt=""/></a>
+      <a href="#"><img src="https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue" alt=""/></a>
+      <a href="#"><img src="https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork" alt=""/></a>
+      <a href="#"><img src="https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit" alt=""/></a>
+      <a href="#"><img src="https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr" alt=""/></a>
+  </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## By the way here are some of my statistics 🚀
+
 <p align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DeadpoolSteinS&show_icons=true&theme=tokyonight" height="192px"/></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadpoolSteinS&theme=tokyonight&layout=compact" height="192px"/></a>
@@ -26,6 +38,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Technologies That I Know👨🏻‍💻
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
