@@ -18,8 +18,10 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## By the way here are some of my statistics 🚀
-![DeadpoolSteinS's github stats](https://github-readme-stats.vercel.app/api?username=DeadpoolSteinS&show_icons=true&theme=tokyonight)
-![DeadpoolSteinS's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeadpoolSteinS&theme=tokyonight&layout=compact)
+<p align="center">
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DeadpoolSteinS&show_icons=true&theme=tokyonight" height="192px"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadpoolSteinS&theme=tokyonight&layout=compact" height="192px"/></a>
+  </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
